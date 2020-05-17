@@ -1,0 +1,140 @@
+ To establish command, a firefighter should: 
+ A. don PPE appropriate for the incident scene.
+ B. make initial assignments to available resources.
+ C. call for assistance from higher ranking personnel.
+ D. remove all nonessential personnel from the incident scene.
+ ANSWER: B
+
+ If communications have been correctly established, the incoming IC should be able to handle communications such as change in Command Post location and: 
+ A. notification.
+ B. preincident reports.
+ C. periodic progress reports.
+ D. general weather conditions.
+ ANSWER: C
+
+ As part of size-up, what information should a firefighter consider while en route to an incident? 
+ A. Victim survivability based on conditions
+ B. The cost of calling in additional resources
+ C. How much of the structure (percentage) is on fire
+ D. Weather conditions and their potential effects on fire behavior
+ ANSWER: D
+
+ After gathering information about the scene from a 360 size-up, the first-arriving firefighter must: 
+ A. transfer Command.
+ B. request additional resources.
+ C. transmit a condition or arrival report.
+ D. establish the initial isolation perimeter.
+ ANSWER: C
+
+ After conducting a risk-benefit analysis, you should select an offensive strategy when: 
+ A. occupants are not savable.
+ B. lives or property are savable.
+ C. no threat to occupant life exists.
+ D. conditions indicate an extreme threat to property.
+ ANSWER: B
+
+ Who has the responsibility of requesting additional resources during the initial response to an incident? 
+ A. Law enforcement liaison
+ B. Senior firefighter on the scene
+ C. Telecommunications dispatcher
+ D. Firefighter who initially assumes Command
+ ANSWER: D
+
+ Which statement about transferring Command is MOST accurate? 
+ A. Radio communication of a transfer of Command is preferred.
+ B. Command should never be transferred to anyone who is not on the scene.
+ C. Command can only be transferred face-to-face.
+ D. The initial IC can only transfer Command to a higher ranking fire officer.
+ ANSWER: B
+
+ After command has been transferred: 
+ A. crew members are likely to be reassigned.
+ B. the initial IC is no longer needed on the scene.
+ C. the new IC will conduct his or her own size-up.
+ D. the new IC will assign new duties to the initial IC.
+ ANSWER: D
+
+ The most important variable when choosing an appropriate hoseline is: 
+ A. flow rate.
+ B. stream reach.
+ C. ease of deployment.
+ D. potential fire spread.
+ ANSWER: A
+
+ In what situation would you include a wye appliance as part of a hose lay? 
+ A. When the hydrant does not have a large diameter connection
+ B. When a smaller line is needed but a larger line is still in service
+ C. When one attack line has been laid, but two are needed to implement a plan
+ D. When more than one attachment using a non-gated wye needs to be made available to the same hydrant
+ ANSWER: C
+
+ Which type of nozzle is generally the most useful for an interior fire attack? 
+ A. Solid stream nozzle
+ B. Smooth bore nozzle
+ C. Master stream nozzle
+ D. Fog nozzle (adjustable nozzle)
+ ANSWER: D
+
+ Interior fire attack crews advancing hoselines must carry tools and equipment needed to open interior doors, make an emergency exit, or: 
+ A. conduct air monitoring.
+ B. detect hazardous materials.
+ C. check concealed spaces for victims.
+ D. check concealed spaces for fire extension.
+ ANSWER: D
+
+ Unit leaders must be capable of communicating within the department's IMS system, which includes providing status reports and updates to personnel in charge of the incident and: 
+ A. determining initial crew assignments.
+ B. broadcasting incident termination orders.
+ C. relaying orders from incident leaders to unit personnel.
+ D. establishing a time interval for all crews to provide progress reports.
+ ANSWER: C
+
+ During an attack, if interior conditions worsen or are worse than could be observed from outside the structure, contact the IC and: 
+ A. signal the need for evacuation.
+ B. terminate search and rescue operations.
+ C. communicate a change in operational assignment.
+ D. coordinate water application with ventilation crews.
+ ANSWER: D
+
+ When dealing with an electrical emergency involving a downed power line,: 
+ A. use water to extinguish small electrical fires.
+ B. walk or crawl away from the ground gradient area.
+ C. establish an exclusion zone equal to 3 times the distance between power poles in all directions away from the line.
+ D. establish an exclusion zone equal to 1 ½ times the distance between power poles in all directions away from the line.
+ ANSWER: D
+
+ Your role at an emergency involving an underground confined space is to: 
+ A. conduct limited rescue operations.
+ B. document your observations for the postincident report.
+ C. keep the fire contained until more qualified personnel arrive.
+ D. maintain situational awareness as you proceed into the space.
+ ANSWER: C
+
+ Why is it important that incident reports are accurate and complete? 
+ A. They are legal documents
+ B. They are used to recruit new hires
+ C. They are used as instructional examples
+ D. They assign blame to those at fault for errors
+ ANSWER: A
+
+ The information gathered on reports is used for: 
+ A. evaluating personnel.
+ B. determining trends in fire cause.
+ C. confirming facts in criminal cases.
+ D. adjusting jurisdictional boundaries.
+ ANSWER: B
+
+ The National Fire Incident Reporting System (NFIRS): 
+ A. is only used in Canada.
+ B. was developed by the NFPA.
+ C. outlines the information needed to complete incident reports.
+ D. outlines the necessary procedures for termination and recovery
+ ANSWER: C
+
+
+ 20. What determines the exact information that should be included in an incident report? (926)
+ A. The IC
+ B. Local protocol
+ C. Emergency Response Guidebook (ERG)
+ D. National Fire Incident Reporting System (NFIRS)
+
