@@ -1,7 +1,7 @@
 This is the README for the quiz formatting tool.
 
-Quiz file formatting tool
-=========================
+Quiz file formatting tool for Moodle
+====================================
 
 Pre-requisites:
 ---------------
