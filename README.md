@@ -15,9 +15,9 @@ This script combine two text files into a single text file that can be uploaded 
 
 File names:
 -----------
-The file containing your questions and selections should be called "<filename>.txt" and be located in the same directory as the "convert_quiz.py" file.
+The file containing your questions and selections should be called "\<filename\>.txt" and be located in the same directory as the "convert_quiz.py" file.
 
-The file containing the quiz answers should be called "<filename>\_answers.txt" and should be located in the same directory as the "convert_quiz.py" and "<filename>.txt" files.
+The file containing the quiz answers should be called "\<filename\>\_answers.txt" and should be located in the same directory as the "convert_quiz.py" and "<filename>.txt" files.
 
 Running the script
 ------------------
