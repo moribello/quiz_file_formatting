@@ -1,72 +1,0 @@
-Which of the following is not a factor typically considered to contribute to structural collapse?
-Renovations
-Geographic location
-Building contents
-Age of the structure
-
-Which type of construction is one of the least likely to collapse due to the weight-bearing capacity of the large-dimension wood members?
-Type I
-Type II
-Type III
-Type IV
-
-Which of the following regarding structural collapse is true?
-Steeples, chimneys, and false facades usually do not collapse unless the entire structure collapses
-Type I construction is typically the most vulnerable to complete structural collapse
-Structural collapses typically happen during or immediately after a fire incident
-Structural collapses due to earthquakes generally involve smaller buildings
-
-Which of the following is true of structural collapse in Type II construction?
-Type II construction consists of unprotected steel or noncombustible supports, such as I-beams.
-When exposed to temperatures above 1000 F, unprotected steel will expand and twist, pushing out walls.
-Type II, ordinary construction, exterior load-bearing walls are made of concrete, brick, or masonry, while interior loads are carried by wood, masonry, or unprotected steel. Masonry construction walls can collapse in one piece or crumble.
-Walls in Type II construction may collapse inward or outward. Lightweight trusses and engineered floor systems can fail in minutes, often within firefighters' average response time (10 minutes).
-Type II construction high-ride buildings are not likely to collapse, making the primary concern the hazard of flying glass from windows or curtain walls.
-
-Which is the primary danger with balloon frame construction?
-Lightweight trusses can fail rapidly and quickly, often within firefighters' average response time (10 minutes)
-Wall cavities between the studs are open from the ground floor to the attic, allowing a fire in the basement or on the first floor to extend to the attic through this channel
-Steel beams can expand and twist when exposed to heat, pushing outside walls outward.
-Exterior load-bearing masonry walls can collapse in one piece or crumble, and debris can travel some distance.
-
-After extinguishing a fire in a building containing truss construction and it is determined that the truss system has been has been affected or weakened by fire firefighters should:
-use defensive overhauling procedures
-always work in teams of two or more in the affected area
-use fog bore streams to minimize the amount of water added to the structure
-immediately use vertical ventilation to lower the ambient temperature in the structure
-
-Which of the following is not true regarding building condition and structural collapse?
-Buildings that are old, have not been maintained properly, or have been abandoned for some time all pose a greater risk of collapse
-As a structure ages, the wood and other materials used in its construction can deteriorate and weaken
-Squatters may alter the interior of a structure including altering load bearing supports
-Older buildings typically have larger, "full timber" support structures, allowing firefighters more time before a collapse
-
-In which of the 4 stages of fire is structural collapse most likely?
-Incipient
-Growth
-Fully involved
-Decay
-
-Contents in a structure can contribute to structural collapse by:
-Slowing growth to the fully involved state by distributing the fuel load throughout the structure
-Causing collapse more rapidly due to added dead weight
-Creating toxic byproducts of combustion
-Roof-mounted HVAC units may draw heat and flame through an entire structure
-
-How far out should a collapse zone be established for this building?
-45 feet
-90 feet
-135 feet
-180 feet
-
-Indicators of structural instability and collapse include all of the following except:
-Movement in the roof, walls, or floors.
-Large amounts of water runoff from the interior of the structure.
-Prolonged fire exposure to the structural members.
-Roof sagging, pulling away from parapet walls, or feeling spongy under foot.
-
-Collapse zones should be established when:
-Fire has been limited to a single room and contents
-Overhaul finds hidden pockets of fire
-A defensive strategy has been adopted
-A second alarm is struck

@@ -19,7 +19,8 @@ def input_files(filename):
     file_input = open(filename + '.txt','r')
     answers = pd.read_csv(filename + '_answers.txt')
     array = np.array(file_input.readlines())
-    newarray = np.resize(array, (20,6))
+    numQuestions = int(input("How many questions in this quiz?"))
+    newarray = np.resize(array, (numQuestions,6))
     quiz = pd.DataFrame(newarray, columns=['question', 'ans1', 'ans2', 'ans3', 'ans4', 'correct'])
     return quiz, answers
 
